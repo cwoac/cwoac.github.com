@@ -1,1 +1,8 @@
 pygments: true
+name: CWOAC
+url: http://cwoac.github.io
+description: The github page of Oliver Matthews
+permalink: /:year/:month/:day/:title/
+paginate: 5
+
+
