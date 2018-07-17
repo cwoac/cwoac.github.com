@@ -1,10 +1,7 @@
-pygments: true
 name: CWOAC
-url: http://cwoac.github.io
-description: The github page of Oliver Matthews
+url: https://www.codersoffortune.net
+description: Solving problems with too much technology.
 permalink: /:year/:month/:day/:title/
 paginate: 5
-
-
-
+highlighter: rouge
 theme: jekyll-theme-leap-day
